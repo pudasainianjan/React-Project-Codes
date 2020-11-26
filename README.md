@@ -1,6 +1,4 @@
-# React-Project-Codes
-
-
+# React-Project-Codes  
 #first clone master branch
 #git branch       //to see which branch you are in      #git branch --list    //to see lists of branch
 #git branch alpha    //create new branch
